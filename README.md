@@ -76,7 +76,7 @@ cypress/
 Pré-requisitos: [Node.js](https://nodejs.org/) (versão LTS) e Git.
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/janassilv/serverest-cypress.git
 cd serverest-cypress
 npm install
 ```
